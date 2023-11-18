@@ -47,3 +47,4 @@ The report contains a dedicated page for each concerned department such as finan
 
 ➡ Setting up the personal gateway to set up the auto-refresh of data
 
+Interactive Report link:https://app.powerbi.com/view?r=eyJrIjoiYmU3MzExYTEtNDg1YS00YmQ4LWEyZDctNDkyY2MzYWJhNTgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
