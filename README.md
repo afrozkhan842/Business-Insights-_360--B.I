@@ -7,6 +7,7 @@ To gauge performance, the company seeks comprehensive insights into its business
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀 :
 
 ➡ SQL
+
 ➡ PowerBi Desktop
 ➡ Excel
 ➡ DAX language
