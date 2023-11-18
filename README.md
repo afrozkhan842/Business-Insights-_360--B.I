@@ -9,23 +9,41 @@ To gauge performance, the company seeks comprehensive insights into its business
 ➡ SQL
 
 ➡ PowerBi Desktop
+
 ➡ Excel
+
 ➡ DAX language
+
 ➡ DAX studio (for optimizing the report)
+
 ➡ Project charter file
 
+
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗕𝗜 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀
+
 ➡ Creating calculated columns
+
 ➡ Creating measures using the DAX language
+
 ➡ Data modeling
+
 ➡ Using Bookmarks to switch between two visuals
+
 ➡ Page navigation with buttons
+
 ➡ Creating date table using m language
+
 ➡ Dynamic titles based on the applied filters
+
 ➡ Using KPI indicators
+
 ➡ Conditional formatting of the values in visuals
+
 ➡ Data validation techniques
+
 ➡ PowerBi services
+
 ➡ Publishing reports to PowerBi services
+
 ➡ Setting up the personal gateway to set up the auto-refresh of data
 
