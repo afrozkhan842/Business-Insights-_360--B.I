@@ -1,4 +1,4 @@
-# Business-Insights-_360--B.I
+# Business-Insights_360-B.I
 
 Project Short Info :
 AtliQ Hardware is strategically expanding its business into various international markets. In pursuit of this goal, they seek comprehensive insights into the performance of their business in terms of net sales, gross margin & net profit across different customers, segments, products & markets etc. Hence, they have decided to take the help of expert data analysis team to know the above details & to be able to take data driven decisions.
